@@ -1,5 +1,5 @@
 ## Hi there 👋
-### Welcome to my GitHub Profile 🌱
+### Welcome to my GitHub 🌱
 
 ### :woman_technologist: About me 
 
