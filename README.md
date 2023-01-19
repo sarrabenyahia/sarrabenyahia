@@ -3,9 +3,8 @@
 
 ### :woman_technologist: About me 
 
-- My name is Sarra Ben Yahia and I am a soon to be graduated Data Scientist from Paris 1 Sorbonne University :school:
+- I am a soon to be graduated Data Scientist from Paris 1 Sorbonne University :school:
 - I am following apprenticeship program with [IQVIA](https://www.iqvia.com/fr-fr/locations/france) as an apprentice Data Scientist
-
 - I’m currently working on a mental health chatbot and a Twitter Webscraping 🔭
 
 ###  :rocket: Languages and Tools
