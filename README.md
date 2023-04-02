@@ -8,7 +8,7 @@
 - I’m currently working on a [mental health chatbot](https://github.com/sarrabenyahia/chatbot-mental-health) and [Natural Language Inference](https://github.com/sarrabenyahia/NLI-SNLI) 🔭
 
 <p align="center">
-  <img width="320" height="270" src="https://media.tenor.com/Wl-KdhG1N24AAAAd/cats.gif">
+  <img width="320" height="270" src="https://media.tenor.com/N3czKnSlpbYAAAAM/cat-cats.gif">
 </p>
 
 
