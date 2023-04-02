@@ -1,11 +1,19 @@
-## Hi there 👋
-### Welcome to my GitHub ✨
+## Hello World 👋
+
 
 ### :woman_technologist: About me 
 
 - I am a soon to be graduated Data Scientist from Paris 1 Panthéon Sorbonne University :school:
 - I am following an apprenticeship program with [IQVIA](https://www.iqvia.com/fr-fr/locations/france) as an apprentice Data Scientist
-- I’m currently working on a [mental health chatbot](https://github.com/sarrabenyahia/chatbot-mental-health) and a [Twitter Webscraping](https://github.com/Pse1234/overperforming-58-energy-stocks) 🔭
+- I’m currently working on a [mental health chatbot](https://github.com/sarrabenyahia/chatbot-mental-health) and [Natural Language Inference](https://github.com/sarrabenyahia/NLI-SNLI) 🔭
+
+
+
+<p align="center">
+  <img width="350" height="270" src="https://media.tenor.com/Wl-KdhG1N24AAAAd/cats.gif">
+</p>
+
+
 
 ###  :rocket: Languages and Tools
 <p align="center">
