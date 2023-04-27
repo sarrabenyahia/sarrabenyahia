@@ -7,9 +7,6 @@
 - I am following the NLP course program of [Hugging Face](https://huggingface.co/course/chapter1/1) 
 - I’m currently working on a [mental health chatbot](https://github.com/sarrabenyahia/chatbot-mental-health) and [Natural Language Inference](https://github.com/sarrabenyahia/NLI-SNLI) 🔭
 
-<p align="center">
-  <img width="320" height="270" src="https://media.tenor.com/N3czKnSlpbYAAAAM/cat-cats.gif">
-</p>
 
 
 
