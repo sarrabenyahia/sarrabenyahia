@@ -4,8 +4,8 @@
 ### :woman_technologist: About me 
 
 - I am a soon to be graduated Data Scientist from Paris 1 Panthéon Sorbonne University :school:
-- I am following the NLP course program of [Hugging Face](https://huggingface.co/course/chapter1/1) 
-- I’m currently working on a [mental health chatbot](https://github.com/sarrabenyahia/chatbot-mental-health) and [Natural Language Inference](https://github.com/sarrabenyahia/NLI-SNLI) 🔭
+- I am following the NLP course program of [Stanford (CS224N)](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&ab_channel=StanfordOnline) 
+- I’m currently working on the [RaidiumxENS Challenge](https://challengedata.ens.fr/participants/challenges/105/)
 
 
 
