@@ -1,10 +1,7 @@
 ## Hello World 👋
 
 
-### :woman_technologist: About me 
 
-- 🏫 I am a soon to be graduated Data Scientist from Paris 1 Panthéon Sorbonne University :school:
-- 👨‍🔬 I am following the NLP course program of [Stanford (CS224N)](https://www.youtube.com/watch?v=rmVRLeJRkl4&list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ&ab_channel=StanfordOnline) 
 - 🔬 I’m currently working on [Raidium challenge by ENS](https://challengedata.ens.fr/participants/challenges/105/) with [MedSAM](https://github.com/bowang-lab/MedSAM)
 
 Let's connect 👇 : 
