@@ -1,20 +1,11 @@
 ## Hello World 👋
 
-
-
-- 🔬 I’m currently working on [Raidium challenge by ENS](https://challengedata.ens.fr/participants/challenges/105/) with [MedSAM](https://github.com/bowang-lab/MedSAM)
-
 Let's connect 👇 : 
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/sarrabenyahia/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:benyahiasarra9@gmail.com?subject=Hello%20Sarra,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-**Latest projects 🚀**
-<!-- BLOG-POST-LIST:START -->
-- [Natural Language Inference](https://github.com/pse1234/NLI)
-- [What to do in Paris?](https://github.com/sarrabenyahia/datamuse)
-- [Predict schizophrenia using brain anatomy](https://github.com/sarrabenyahia/Predict-schizophrenia-using-brain-anatomy)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Languages and Tools:</h3>
