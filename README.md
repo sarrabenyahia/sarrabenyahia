@@ -20,7 +20,7 @@
 
 </div>
 
-<div style="text-align: center; margin: 20px 0;">
+  <div style="flex: 1; max-width: 400px; margin: 10px; text-align: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarrabenyahia&theme=radical" alt="GitHub Streak" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
 </div>
 
